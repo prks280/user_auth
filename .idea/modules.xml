@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/PycharmProjects/Patterns/.idea/Patterns.iml" filepath="$USER_HOME$/PycharmProjects/Patterns/.idea/Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../chargesavvy_project/.idea/chargesavvy_project.iml" filepath="$PROJECT_DIR$/../chargesavvy_project/.idea/chargesavvy_project.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/numpy/.idea/numpy.iml" filepath="$USER_HOME$/PycharmProjects/numpy/.idea/numpy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../very imp recordings/programs/ppythonprograms/.idea/ppythonprograms.iml" filepath="$PROJECT_DIR$/../../very imp recordings/programs/ppythonprograms/.idea/ppythonprograms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../test_projects/project_auth/.idea/project_auth.iml" filepath="$PROJECT_DIR$/../../test_projects/project_auth/.idea/project_auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/tutorial.iml" filepath="$PROJECT_DIR$/.idea/tutorial.iml" />
+    </modules>
+  </component>
+</project>
